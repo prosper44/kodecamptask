@@ -1,0 +1,205 @@
+.T{
+  
+    color: white;
+     margin: 30px 400px 0 400px
+    }
+body{
+    background-color: black;
+    color: white;
+}
+.container{
+    display: grid;
+    grid-template-columns: 300px 300px;
+    margin: 50px 0 100px 400px;
+}
+  .a,.b {
+    margin: 0 30px 0 10px;
+
+}
+
+.b{
+    margin: 0 20px 0 10px;
+}
+
+.aa{
+    font-size: 30px;
+    color: pink;
+}
+
+.c,.d{
+    margin: 0 20px 0 10px;
+}
+
+.W{
+    margin: 50px 400px 50px 300px;
+    text-align: center;
+    font-size: 40px;
+    border-top: solid 2px;
+    padding: 30px;
+}
+
+.cust{
+    display: grid;
+    grid-template-columns: 400px 400px;
+    margin: 90px 90px 90px 300px;
+}
+
+.A, {
+    margin: 0 10px 0 0;
+}
+
+.A{
+    color: pink;
+}
+.B{
+    margin: 0 3px 0 15px;
+}
+
+.C,{
+    margin: 0 10px 0 10px;
+}
+
+.D{
+    marg margin: 0 0 0 30px;
+}
+
+.beng{
+    height: 150px;
+    width: 150px;
+    margin: 0 0 0 50px;
+}
+
+.Y{
+    margin: 50px 300px 20px 350px;
+    text-align: center;
+    font-size: 40px
+}
+
+.dennis{
+    margin: 50px 600px 50px 550px;
+    text-align: center;
+    font-size: 15px;
+    border-bottom: solid pink 7px;
+    padding-bottom: 20px;
+    
+}
+
+.oy{
+    margin: 50px 400px 50px 450px;
+    text-align: center;
+    font-size: 15px
+}
+
+.we{
+    margin: 50px 450px 50px 350px;
+    text-align: center;
+    font-size: 15px
+}
+
+.emm{
+    margin: 50px 450px 50px 350px;
+    text-align: center;
+    font-size: 15px
+}
+
+.nv{
+    background-color: gray;
+}
+
+.and{
+    margin: 50px 450px 50px 400px;
+    text-align: center;
+    font-size: 15px
+}
+
+.met{
+    width: 15px;
+    height: 15px;
+    margin: 3px 0 0 0;
+}
+
+.cast{
+    display: flex;
+    margin-left: 45%;
+}
+
+.ovo{
+    margin: 0 0 0 20px;
+}
+
+.tri{
+    border-radius: 20px 20px 20px 20px;
+    height: 200px;
+    width: 200px;
+    margin: 15px;
+}
+
+.pro{
+    border: solid pink 2px;
+    
+    margin-right: 600px;
+    text-align: center;
+   padding: 8px;
+   font-size: 13px;
+   color: pink;
+}
+
+.sent{
+    margin-left: 600px;
+}
+.ment{
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+.non{
+    margin-left: 610px;
+    margin-top: 30px;
+    height: 150px;
+    width: 150px;
+
+}
+
+.face{
+    height: 18px;
+    color: white;
+    margin: 30px;
+}
+
+.long{
+    margin-left: 550px;
+}
+
+
+.bio{
+    font-size: 40px;
+    margin-left: 500px;
+    color: pink;
+}
+
+
+.man{
+    height: 200px;
+    margin-left: 500px;
+}
+
+.go{
+    margin-left: 550px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.d{
+    display: flex;
+    margin-left: 300px;
+}
+
+.gym{
+    
+    margin-left: 550px;
+}
+
+.fif{
+    height: 40px;
+    width: 10px;
+    margin-left: 620px;
+}
